@@ -25,7 +25,5 @@ import matplotlib.pyplot as plt
 ---->>>>
 source code: python for finance
 
-
-
-https://gesis.mybinder.org/binder/v2/gh/joshua-writes-code/Simulations/fbf8dd8a252fef2fbce4006807df2abf3cc68eb1?filepath=monte-carlo-siimulation.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joshua-writes-code/Simulations/HEAD)
 
