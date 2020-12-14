@@ -1,9 +1,10 @@
 # Simulations
 
 In order to run the code-simulations;
+
 here the requirements;
 
-
+--->>>>
 
 import numpy as np
 
